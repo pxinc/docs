@@ -7,7 +7,7 @@ module.exports = {
     title: 'Pxinc Blog',
     description: "Pxinc Blog By VuePress",
     head: HEAD_CONF,
-    lastUpdated: 'Last Updated',
+    lastUpdated: '更新时间',
     extraWatchFiles: [
         '../**/*.md',
         './config.js'

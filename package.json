@@ -6,9 +6,13 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
-    "deploy": "base deploy.sh",
-    "cname": "bash cname.sh",
-    "algolia": "bash algolia.sh"
+    "deploy": "/bin/bash deploy.sh",
+    "cname": "/bin/bash cname.sh",
+    "algolia": "/bin/bash algolia.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pxinc/blog.git"
   },
   "keywords": [
     "blog",
