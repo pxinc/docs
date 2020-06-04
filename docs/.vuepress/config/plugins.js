@@ -1,5 +1,5 @@
-const moment = require('moment');
-moment.locale("zh-cn");
+const dayjs = require('dayjs');
+dayjs.locale('zh-cn')
 
 module.exports = {
     "vuepress-plugin-auto-sidebar": {
@@ -9,7 +9,7 @@ module.exports = {
         ]
     },
     '@vuepress/last-updated': {
-      transformer: (timestamp) =>  moment(timestamp).fromNow()
+      transformer: (timestamp) =>  dayjs(timestamp).format('YYYY/MM/DD')
     },
     '@vuepress/back-to-top': true,
     '@vuepress/pwa': {
