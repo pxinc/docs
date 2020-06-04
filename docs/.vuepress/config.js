@@ -1,0 +1,19 @@
+const NAV_CONF = require('./config/nav.js')
+const PLUGINS_CONF = require('./config/plugins.js')
+const HEAD_CONF = require('./config/head.js')
+
+module.exports = {
+    title: 'Pxinc Blog',
+    description: "Pxinc Blog By VuePress",
+    head: HEAD_CONF,
+    lastUpdated: 'Last Updated',
+    extraWatchFiles: [
+        '../**/*.md',
+        './config.js'
+    ],
+    themeConfig: {
+        docsDir: 'docs',
+        nav: NAV_CONF,
+    },
+    plugins: PLUGINS_CONF
+}
