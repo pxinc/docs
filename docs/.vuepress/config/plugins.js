@@ -24,5 +24,6 @@ module.exports = {
       options: {
         margin: 16
       }
-    }
+    },
+    '@vuepress/back-to-top': true
 }
