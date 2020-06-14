@@ -19,12 +19,6 @@ title: 首页
 
 <a href="javascript: document.querySelectorAll('*').forEach(q => q.style.outline = q.style.outline ? '' : '1px solid red')"><Badge text="外边框" type="error" vertical="middle"/></a>
 
-::: details 说明
-
-可以给页面中所有的元素添加外边框，便于查看 `DOM` 结构。
-
-:::
-
 
 
 
