@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "c887946f201c6264ba482e0f901f3df6"
+    "revision": "c5ba8ac47764826900d14eb4bf269273"
   },
   {
     "url": "app.png",
@@ -230,108 +230,108 @@ self.__precacheManifest = [
     "revision": "928b7ac16c1f034a15bdd71c30a59d7b"
   },
   {
-    "url": "assets/js/app.0758df53.js",
-    "revision": "1a729af049483ddbc7d5950c7eaeaee4"
+    "url": "assets/js/app.dfd1974a.js",
+    "revision": "c9fb4fd789f750d0675e5fd8a90736ca"
   },
   {
     "url": "backend/koa/index.html",
-    "revision": "761b193856ef316673d64038ec33477c"
+    "revision": "7553caecbbc1541a78c4b26d8f7b9a77"
   },
   {
     "url": "backend/mongodb/index.html",
-    "revision": "4762eddb699c8875a3953a12f6faff26"
+    "revision": "f49eb26f0a76fb0b495d243088723c68"
   },
   {
     "url": "backend/nginx/built-in-variables.html",
-    "revision": "a25e9fda229cb0869b5fbcd743a734b4"
+    "revision": "7f1f166cce6442d60feb9ab12b440564"
   },
   {
     "url": "backend/nginx/configurin-systemd-service-for-nginx.html",
-    "revision": "26119dee7432ca7b043efcee86afb0c7"
+    "revision": "a15912177603c40864ee27419c721248"
   },
   {
     "url": "backend/nginx/explain-the-main-configuration-file-of-nginx.html",
-    "revision": "250b3aa0ee72b9a16b4fb7a807c7c5cd"
+    "revision": "e28278fae35d593fc04f52764442934c"
   },
   {
     "url": "backend/nginx/index.html",
-    "revision": "48a1dfc03771bce6b0ce03e38cef1871"
+    "revision": "b03e25f1519b8528690fbcd797c84ff5"
   },
   {
     "url": "backend/nginx/install-goaccess.html",
-    "revision": "3b67e8eaf8c96f3b6ce8edae81b55b7f"
+    "revision": "b37ff9fec1127546f9807f56f07eae32"
   },
   {
     "url": "backend/nginx/install-nginx.html",
-    "revision": "141924755873c4f1e4ff8fbc1643970f"
+    "revision": "f29a147a3a47b227372c16dc7b4bd7f0"
   },
   {
     "url": "backend/nginx/limit-module.html",
-    "revision": "a6a34b9451b8a14c2d91c31690f23673"
+    "revision": "d7a6b148eb36da0373f4e0d7eff4f2e2"
   },
   {
     "url": "backend/nginx/location-rules.html",
-    "revision": "af0e85554e209b05186a126df423d241"
+    "revision": "5a5698119c61870af70b7f35bdb6dc47"
   },
   {
     "url": "backend/nginx/master-slave-nginx.html",
-    "revision": "9915e78112633fac2fc7748df6f45bd0"
+    "revision": "6067de8379e4a85078817c3601874ec3"
   },
   {
     "url": "backend/nginx/nginx-basic-operation.html",
-    "revision": "9ceeb08b07ff6b3bb04e87f42925605a"
+    "revision": "b55b90fb6a6ef1522c979376c410eb2a"
   },
   {
     "url": "backend/nginx/nginx-upstream.html",
-    "revision": "b30ce1a063cd54b8b8b242f2f250a6df"
+    "revision": "e92fa37d673aa027c1b85ee2f661e1a4"
   },
   {
     "url": "backend/nginx/proxy-pass-rules.html",
-    "revision": "9a46dbdc3b17c392fab1764fd18b2215"
+    "revision": "11d091a99e0d11922e74d156e93e6b41"
   },
   {
     "url": "backend/nginx/referer-module.html",
-    "revision": "800b5a651b54cbbb9725285be8c781ee"
+    "revision": "3088a3ddc41a2235d444e8d38b60900b"
   },
   {
     "url": "backend/nginx/rewrite-rules.html",
-    "revision": "c74b778f076e72a1198a2f1e4754b4f6"
+    "revision": "b3e4676d888c95063b2f771c8966dd38"
   },
   {
     "url": "backend/nginx/the-difference-between-root-and-alias.html",
-    "revision": "86b63b8838b962d7ab0dfa1247d0cbc4"
+    "revision": "18cf1a5b15e03669496fbc5530309bb1"
   },
   {
     "url": "backend/nginx/upgrade-http-to-https.html",
-    "revision": "7ba6552f8446f05d4ecfed1e30348766"
+    "revision": "f2afc74a2c09e1ee14ad193ce1f590df"
   },
   {
     "url": "backend/nginx/websocket-proxy.html",
-    "revision": "2e4889548dde6c4f82a13177e638785c"
+    "revision": "6727a6d2934f2c520f86aa877a2f67ba"
   },
   {
     "url": "backend/nodejs/index.html",
-    "revision": "0ef5d17ba3d80609f894ed0726ec0e97"
+    "revision": "2236f1edc76adc531ddbaf8e3048e9aa"
   },
   {
     "url": "backend/nodejs/install-nodejs.html",
-    "revision": "32ccbfd70da790067e83716f10065d17"
+    "revision": "c76ddbd51058a346f69b48d40e46baab"
   },
   {
     "url": "backend/nodejs/npm-version.html",
-    "revision": "42de5e2ca440d7475ddb0ebb2a7890e0"
+    "revision": "74dc2d45ca7e0329e02bfdc7e64c7d5e"
   },
   {
     "url": "backend/nodejs/npx.html",
-    "revision": "c4276d4c622986695336b1db4fdc5e9d"
+    "revision": "a2ce4fe88a63b0259cbd20e046211538"
   },
   {
     "url": "base/algorithm/index.html",
-    "revision": "1a00a36352d50bfe092b3dc2d46d50d6"
+    "revision": "eeb267d0bcd6b979c3250690a7ca2e64"
   },
   {
     "url": "base/design-pattern/index.html",
-    "revision": "08af5dd9ad32dfdfe9e5d175c2100f0c"
+    "revision": "9afefd7de77b6b0b5849a3fc40065a64"
   },
   {
     "url": "base/interview/javascript-value-range.png",
@@ -339,7 +339,7 @@ self.__precacheManifest = [
   },
   {
     "url": "base/regexp/index.html",
-    "revision": "0d072cb5b13996a0e94141eb0d56b7e2"
+    "revision": "33cdeeddc5fdf35116af788fc8fd90de"
   },
   {
     "url": "bookmark/bookmark-scripts.gif",
@@ -347,7 +347,7 @@ self.__precacheManifest = [
   },
   {
     "url": "frontend/javascript/index.html",
-    "revision": "360738e215c833c5efaf438986340b1d"
+    "revision": "31bf4d714e87bad200f104b323ec215b"
   },
   {
     "url": "frontend/javascript/prototype-chains-function.jpg",
@@ -359,11 +359,11 @@ self.__precacheManifest = [
   },
   {
     "url": "frontend/tricks/index.html",
-    "revision": "44b733a7eef375efde48ac0701afd4a9"
+    "revision": "b89d8d2721132ac8df5653491613ddd9"
   },
   {
     "url": "frontend/utils/index.html",
-    "revision": "2b21545d4e5226f317ba0ab73c614cea"
+    "revision": "2d306e9f9a62e906db00991b5b822203"
   },
   {
     "url": "git/git_lifecycle.png",
@@ -407,7 +407,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "9a726554b3e502e3485c413b7af520e4"
+    "revision": "c7284a439185f21675e6c40e13928b41"
   },
   {
     "url": "os/manjaro/konsole-profile-command.png",
@@ -419,47 +419,47 @@ self.__precacheManifest = [
   },
   {
     "url": "tools/bookmark-scripts/index.html",
-    "revision": "11fb465efd20005b3825130df2ef3331"
+    "revision": "adb1584db2e8eb3784123ed7568f6d92"
   },
   {
     "url": "tools/chrome/edit-file-with-workspaces.html",
-    "revision": "a540d7cbcff3d0eebd05f8866080f1e5"
+    "revision": "85731dcff88247cca7a4c4e52c2131f7"
   },
   {
     "url": "tools/chrome/index.html",
-    "revision": "697c878e10820a6db1bde248a34d83ed"
+    "revision": "8636364009188ae8ac1ba647917fc331"
   },
   {
     "url": "tools/chrome/user-friendly-settings.html",
-    "revision": "a179343be103918bf3ccb0367b036aa7"
+    "revision": "dc15654a3a2133f54e53ed6b3a5ddd2d"
   },
   {
     "url": "tools/git/clone-project-to-server.html",
-    "revision": "7c25fe02ece0846235fa4bed46ed6520"
+    "revision": "a0ba2a94b8ba6e21c73f06b56d9f0809"
   },
   {
     "url": "tools/git/daily-git.html",
-    "revision": "8ec79cceb3737aacaf2c73ca0cf52a53"
+    "revision": "03a6303b2fdb6d0835cf1815bca31098"
   },
   {
     "url": "tools/git/git-concept.html",
-    "revision": "8f60538cf9358212ee302d32470458a1"
+    "revision": "f94351779c7d95ae7a5175f0b89fe8cf"
   },
   {
     "url": "tools/git/git-flight-rules.html",
-    "revision": "e20f6033156f000487232ed20549c025"
+    "revision": "b841b900f50a03ac53d3040a18416477"
   },
   {
     "url": "tools/git/git-proxy.html",
-    "revision": "541aa5a1f19f3e5127c156cb0cc7456b"
+    "revision": "a43a16db65889b9a362560b6b7a553cb"
   },
   {
     "url": "tools/git/gitignore.html",
-    "revision": "9bef1e36fe8a0d27faa584c43e340849"
+    "revision": "d6acdb7755be864fbbb476b733c47d5d"
   },
   {
     "url": "tools/git/index.html",
-    "revision": "8fb66f052067b09c10358062813c8e42"
+    "revision": "a699fa3dc3a6c2ec5ea99ecce0ac5070"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
